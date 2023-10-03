@@ -1,0 +1,50 @@
+body {border-style: solid;}
+body  {
+    
+    background-color: beige;
+}
+.section {
+    width: px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 90px;
+    background-color: blanchedalmond;
+}
+.header{
+    align-self: center;
+}
+.gamma {
+    width: px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 90px;
+    background-color: antiquewhite;
+}
+.delta {
+    width: px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 90px;
+    background-color: bisque;
+}
+.beta {
+    width: px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 90px;
+    background-color: bisque;
+
+}
+.container {
+    position:relative;
+    left: 830px;
+  }
+  
+  
+  h2 {
+    color: rgb(129, 75, 40);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
